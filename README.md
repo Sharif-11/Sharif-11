@@ -1,4 +1,4 @@
-## Hi, I'm Shariful Islam! 👋
+# Hi, I'm Shariful Islam! 👋
 
 ## 📧 Contact
 - **GitHub**: [Sharif-11](https://github.com/Sharif-11)
@@ -17,41 +17,56 @@
 
 ## 🚀 Projects
 
-### [University Class Test Attendance & Automation System](https://github.com/Sharif-11/university-class-test-attendance-automation-system)
+### University Class Test Attendance & Automation System
 - Developed a web application for CUET to automate class test management and attendance tracking
 - Features user authentication and role-based access control
 - **Teacher Panel**: Course management, class test arrangement, performance evaluation via Excel uploads
 - **Student Panel**: Access to semesters, courses, attendance records, and test results
 - **Admin Panel**: User management, course creation, and semester allocation
 - **Technology Stack**: **React, Node.js, Express.js, PostgreSQL, Prisma, TypeScript**
+- **GitHub Repositories**:
+  - [Front-End](https://github.com/Sharif-11/class-test-attendance-frontend)
+  - [Back-End](https://github.com/Sharif-11/class-test-attendance-backend)
 
-### [Doctor Appointment Slot Booking System](https://github.com/Sharif-11/doctor-appointment-slot-booking-system)
+### Doctor Appointment Slot Booking System
 - Automated appointment slot booking system for doctors in Bangladesh
 - Features slot management, patient invitations, real-time queue updates, and profile management for doctors
 - **Doctors**: Create and manage slots, send booking invitations, adjust profiles and visiting hours
 - **Patients**: Receive updates on queue position and waiting time
 - **Technology Stack**: **React, Node.js, Express.js, MongoDB, Mongoose**
+- **GitHub Repositories**:
+  - [Front-End](https://github.com/Sharif-11/doctor-appointment-frontend)
+  - [Back-End](https://github.com/Sharif-11/doctor-appointment-backend)
 
-### [Online Judge](https://github.com/Sharif-11/online-judge)
+### Online Judge
 - Developed an online judge similar to Codeforces
 - **Users**: Register and log in using Gmail or handle name and password, participate in contests, submit solutions in C, C++, or Python
 - **Problem Setters**: Create contests with multiple problems, each with a description and test cases
 - Features submission status, past submissions, live leaderboard, and post-contest rating updates
 - Uses the vJudge API to process user submissions
 - **Technology Stack**: **React, Node.js, Express.js, MongoDB, Firebase**
+- **GitHub Repositories**:
+  - [Front-End](https://github.com/Sharif-11/online-judge-frontend)
+  - [Back-End](https://github.com/Sharif-11/online-judge-backend)
 
-### [CUET Medical Center Student Booklet Automation System](https://github.com/Sharif-11/cuet-medical-center-student-booklet-automation-system)
+### CUET Medical Center Student Booklet Automation System
 - Developed a server using Node, Express, and TypeScript to automate the booklet system for CUET Medical Center
 - **CUET Authority**: Recruit doctors, create profiles for every student
 - **Students**: Apply for a booklet, system verifies existence, creates booklet, tracks medical history
 - **Technology Stack**: **Node.js, Express.js, TypeScript, PostgreSQL, Prisma**
+- **GitHub Repositories**:
+  - [Front-End](https://github.com/Sharif-11/medical-center-frontend)
+  - [Back-End](https://github.com/Sharif-11/medical-center-backend)
 
-### [Online Game Portal](https://github.com/Sharif-11/online-game-portal)
+### Online Game Portal
 - Developed a game portal for players to register and play games like Chess, Gomoku, and Space Invader
 - Features player registration, competing against the computer or other players, and inviting friends
 - Uses a chess engine for optimal computer moves in Chess and the Minimax algorithm for Gomoku
 - Facilitates real-time communication between players using Socket.io
 - **Technology Stack**: **React, Socket.io, Node.js, Express.js, MongoDB, Mongoose**
+- **GitHub Repositories**:
+  - [Front-End](https://github.com/Sharif-11/online-game-portal-frontend)
+  - [Back-End](https://github.com/Sharif-11/online-game-portal-backend)
 
 ## 🏆 Online Judge Profiles
 I have solved a total of 1200+ problems across various online judge platforms.
