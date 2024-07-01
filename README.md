@@ -4,13 +4,14 @@
 - **GitHub**: [Sharif-11](https://github.com/Sharif-11)
 - **Email**: shariful.islam.cuet@gmail.com
 - **Phone**: (+880) 1776775495
+- **LinkedIn**: [Shariful Islam](https://linkedin.com/in/shariful-islam)
 
 ## 💼 Skills
 - **Programming Languages**: C, C++, Python
 - **Web Development**: HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS
 - **Database Management**: PostgreSQL, MongoDB, Mongoose, Prisma
 - **Frameworks**: React, React Native, Node.js, Express.js
-- **Version Control**: GitHub
+- **Version Control**: Git, GitHub
 - **Data Structures & Algorithms**
 - **Competitive Programming**
 
@@ -50,6 +51,7 @@
 - Features player registration, competing against the computer or other players, and inviting friends
 - Uses a chess engine for optimal computer moves in Chess and the Minimax algorithm for Gomoku
 - Facilitates real-time communication between players using Socket.io
+- **Technology Stack**: **React, Socket.io, Node.js, Express.js, MongoDB, Mongoose**
 
 ## 🏆 Online Judge Profiles
 I have solved a total of 1200+ problems across various online judge platforms.
