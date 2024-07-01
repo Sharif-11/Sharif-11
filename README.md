@@ -62,7 +62,7 @@
 I have solved a total of 1200+ problems across various online judge platforms.
 - **Codeforces**: [Sharif 11](https://codeforces.com/profile/Sharif_11) - 307 problems solved
 - **Codeforces**: [u1804011](https://codeforces.com/profile/u1804011) - 729 problems solved
-- **Vjudge**: [u1804011 sharif](https://vjudge.net/user/u1804011) - 182 problems solved
+- **Vjudge**: [u1804011 sharif](https://vjudge.net/user/u1804011_sharif) - 182 problems solved
 
 ## 🎓 Education
 **B.Sc in Engineering (Computer Science & Engineering)**
