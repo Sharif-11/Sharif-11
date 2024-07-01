@@ -32,7 +32,7 @@
 - **Doctors**: Create and manage slots, send booking invitations, adjust profiles and visiting hours
 - **Patients**: Receive updates on queue position and waiting time
 - **Technology Stack**: **React, Node.js, Express.js, MongoDB, Mongoose**
-- **GitHub Repositories**: [Front-End](https://github.com/Sharif-11/doctor-appointment-frontend), [Back-End](https://github.com/Sharif-11/doctor-appointment-backend)
+- **GitHub Repositories**: [User Panel](https://github.com/Sharif-11/Appointment-Booking-User-Panel), [Doctor Panel](https://github.com/Sharif-11/Appointment-Booking-Admin-Panel), [Server Site](https://github.com/Sharif-11/Appointment-Booking-Server)
 
 ### Online Judge
 - Developed an online judge similar to Codeforces
