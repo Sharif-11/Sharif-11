@@ -4,7 +4,7 @@
 - **GitHub**: [Sharif-11](https://github.com/Sharif-11)
 - **Email**: shariful.islam.cuet@gmail.com
 - **Phone**: (+880) 1776775495
-- **LinkedIn**: [Shariful Islam](www.linkedin.com/in/shariful-islam-7a8b37198)
+- **LinkedIn**: [Shariful Islam](https://linkedin.com/in/shariful-islam-7a8b37198)
 
 ## 💼 Skills
 - **Programming Languages**: C, C++, Python
