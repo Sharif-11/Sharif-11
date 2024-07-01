@@ -8,9 +8,9 @@
 ## 💼 Skills
 - **Programming Languages**: C, C++, Python
 - **Web Development**: HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS
-- **Database Management**: PostgreSQL, MongoDB, Redis, Mongoose, Prisma
-- **Frameworks**: React, React Native, Redux, Node.js, Express.js
-- **Version Control**: Git, GitHub
+- **Database Management**: PostgreSQL, MongoDB, Mongoose, Prisma
+- **Frameworks**: React, React Native, Node.js, Express.js
+- **Version Control**: GitHub
 - **Data Structures & Algorithms**
 - **Competitive Programming**
 
@@ -22,26 +22,28 @@
 - **Teacher Panel**: Course management, class test arrangement, performance evaluation via Excel uploads
 - **Student Panel**: Access to semesters, courses, attendance records, and test results
 - **Admin Panel**: User management, course creation, and semester allocation
+- **Technology Stack**: **React, Node.js, Express.js, PostgreSQL, Prisma, TypeScript**
 
 ### [Doctor Appointment Slot Booking System](https://github.com/Sharif-11/doctor-appointment-slot-booking-system)
 - Automated appointment slot booking system for doctors in Bangladesh
 - Features slot management, patient invitations, real-time queue updates, and profile management for doctors
 - **Doctors**: Create and manage slots, send booking invitations, adjust profiles and visiting hours
 - **Patients**: Receive updates on queue position and waiting time
+- **Technology Stack**: **React, Node.js, Express.js, MongoDB, Mongoose**
 
 ### [Online Judge](https://github.com/Sharif-11/online-judge)
 - Developed an online judge similar to Codeforces
 - **Users**: Register and log in using Gmail or handle name and password, participate in contests, submit solutions in C, C++, or Python
 - **Problem Setters**: Create contests with multiple problems, each with a description and test cases
 - Features submission status, past submissions, live leaderboard, and post-contest rating updates
-- **Technology Stack**: React, Node.js, Express.js, MongoDB, Firebase
 - Uses the vJudge API to process user submissions
+- **Technology Stack**: **React, Node.js, Express.js, MongoDB, Firebase**
 
 ### [CUET Medical Center Student Booklet Automation System](https://github.com/Sharif-11/cuet-medical-center-student-booklet-automation-system)
 - Developed a server using Node, Express, and TypeScript to automate the booklet system for CUET Medical Center
 - **CUET Authority**: Recruit doctors, create profiles for every student
 - **Students**: Apply for a booklet, system verifies existence, creates booklet, tracks medical history
-- **Technology Stack**: Node.js, Express.js, TypeScript, PostgreSQL, Prisma
+- **Technology Stack**: **Node.js, Express.js, TypeScript, PostgreSQL, Prisma**
 
 ### [Online Game Portal](https://github.com/Sharif-11/online-game-portal)
 - Developed a game portal for players to register and play games like Chess, Gomoku, and Space Invader
