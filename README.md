@@ -25,8 +25,9 @@
 - **Admin Panel**: User management, course creation, and semester allocation
 - **Technology Stack**: **React, Node.js, Express.js, PostgreSQL, Prisma, TypeScript**
 - **GitHub Repositories**:
-  - [Front-End](https://github.com/Sharif-11/class-test-attendance-frontend)
-  - [Back-End](https://github.com/Sharif-11/class-test-attendance-backend)
+  - [Teacher Panel](https://github.com/Sharif-11/Class-Test-Attendance-Teacher-Panel)
+  - [Admin Panel](https://github.com/Sharif-11/class-test-attendance-admin-panel)
+  - [Backend Site](https://github.com/Sharif-11/Class-Test-Attendance-Automation-Server)
 
 ### Doctor Appointment Slot Booking System
 - Automated appointment slot booking system for doctors in Bangladesh
