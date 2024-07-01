@@ -24,10 +24,7 @@
 - **Student Panel**: Access to semesters, courses, attendance records, and test results
 - **Admin Panel**: User management, course creation, and semester allocation
 - **Technology Stack**: **React, Node.js, Express.js, PostgreSQL, Prisma, TypeScript**
-- **GitHub Repositories**:
-  - [Teacher Panel](https://github.com/Sharif-11/Class-Test-Attendance-Teacher-Panel)
-  - [Admin Panel](https://github.com/Sharif-11/class-test-attendance-admin-panel)
-  - [Backend Site](https://github.com/Sharif-11/Class-Test-Attendance-Automation-Server)
+- **GitHub Repositories**: [Teacher Panel](https://github.com/Sharif-11/Class-Test-Attendance-Teacher-Panel), [Admin Panel](https://github.com/Sharif-11/class-test-attendance-admin-panel), [Backend Site](https://github.com/Sharif-11/Class-Test-Attendance-Automation-Server)
 
 ### Doctor Appointment Slot Booking System
 - Automated appointment slot booking system for doctors in Bangladesh
@@ -35,9 +32,7 @@
 - **Doctors**: Create and manage slots, send booking invitations, adjust profiles and visiting hours
 - **Patients**: Receive updates on queue position and waiting time
 - **Technology Stack**: **React, Node.js, Express.js, MongoDB, Mongoose**
-- **GitHub Repositories**:
-  - [Front-End](https://github.com/Sharif-11/doctor-appointment-frontend)
-  - [Back-End](https://github.com/Sharif-11/doctor-appointment-backend)
+- **GitHub Repositories**: [Front-End](https://github.com/Sharif-11/doctor-appointment-frontend), [Back-End](https://github.com/Sharif-11/doctor-appointment-backend)
 
 ### Online Judge
 - Developed an online judge similar to Codeforces
@@ -46,18 +41,14 @@
 - Features submission status, past submissions, live leaderboard, and post-contest rating updates
 - Uses the vJudge API to process user submissions
 - **Technology Stack**: **React, Node.js, Express.js, MongoDB, Firebase**
-- **GitHub Repositories**:
-  - [Front-End](https://github.com/Sharif-11/online-judge-frontend)
-  - [Back-End](https://github.com/Sharif-11/online-judge-backend)
+- **GitHub Repositories**: [Front-End](https://github.com/Sharif-11/online-judge-frontend), [Back-End](https://github.com/Sharif-11/online-judge-backend)
 
 ### CUET Medical Center Student Booklet Automation System
 - Developed a server using Node, Express, and TypeScript to automate the booklet system for CUET Medical Center
 - **CUET Authority**: Recruit doctors, create profiles for every student
 - **Students**: Apply for a booklet, system verifies existence, creates booklet, tracks medical history
 - **Technology Stack**: **Node.js, Express.js, TypeScript, PostgreSQL, Prisma**
-- **GitHub Repositories**:
-  - [Front-End](https://github.com/Sharif-11/medical-center-frontend)
-  - [Back-End](https://github.com/Sharif-11/medical-center-backend)
+- **GitHub Repositories**: [Front-End](https://github.com/Sharif-11/medical-center-frontend), [Back-End](https://github.com/Sharif-11/medical-center-backend)
 
 ### Online Game Portal
 - Developed a game portal for players to register and play games like Chess, Gomoku, and Space Invader
@@ -65,9 +56,7 @@
 - Uses a chess engine for optimal computer moves in Chess and the Minimax algorithm for Gomoku
 - Facilitates real-time communication between players using Socket.io
 - **Technology Stack**: **React, Socket.io, Node.js, Express.js, MongoDB, Mongoose**
-- **GitHub Repositories**:
-  - [Front-End](https://github.com/Sharif-11/online-game-portal-frontend)
-  - [Back-End](https://github.com/Sharif-11/online-game-portal-backend)
+- **GitHub Repositories**: [Front-End](https://github.com/Sharif-11/online-game-portal-frontend), [Back-End](https://github.com/Sharif-11/online-game-portal-backend)
 
 ## 🏆 Online Judge Profiles
 I have solved a total of 1200+ problems across various online judge platforms.
