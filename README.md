@@ -11,7 +11,7 @@
 - **Web Development**: HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS
 - **Database Management**: PostgreSQL, MongoDB, Mongoose, Prisma
 - **Frameworks**: React, React Native, Node.js, Express.js
-- **Version Control**: Git, GitHub
+- **Version Control**: GitHub
 - **Data Structures & Algorithms**
 - **Competitive Programming**
 
