@@ -5,9 +5,14 @@
 - **Email**: shariful.islam.cuet@gmail.com
 - **Phone**: (+880) 1776775495
 
-## 🎓 Education
-**B.Sc in Engineering (Computer Science & Engineering)**
-- Chittagong University of Engineering and Technology (2019 - 2024)
+## 💼 Skills
+- **Programming Languages**: C, C++, Python
+- **Web Development**: HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS
+- **Database Management**: PostgreSQL, MongoDB, Redis, Mongoose, Prisma
+- **Frameworks**: React, React Native, Redux, Node.js, Express.js
+- **Version Control**: Git, GitHub
+- **Data Structures & Algorithms**
+- **Competitive Programming**
 
 ## 🚀 Projects
 
@@ -29,12 +34,14 @@
 - **Users**: Register and log in using Gmail or handle name and password, participate in contests, submit solutions in C, C++, or Python
 - **Problem Setters**: Create contests with multiple problems, each with a description and test cases
 - Features submission status, past submissions, live leaderboard, and post-contest rating updates
+- **Technology Stack**: React, Node.js, Express.js, MongoDB, Firebase
 - Uses the vJudge API to process user submissions
 
 ### [CUET Medical Center Student Booklet Automation System](https://github.com/Sharif-11/cuet-medical-center-student-booklet-automation-system)
 - Developed a server using Node, Express, and TypeScript to automate the booklet system for CUET Medical Center
 - **CUET Authority**: Recruit doctors, create profiles for every student
 - **Students**: Apply for a booklet, system verifies existence, creates booklet, tracks medical history
+- **Technology Stack**: Node.js, Express.js, TypeScript, PostgreSQL, Prisma
 
 ### [Online Game Portal](https://github.com/Sharif-11/online-game-portal)
 - Developed a game portal for players to register and play games like Chess, Gomoku, and Space Invader
@@ -42,17 +49,12 @@
 - Uses a chess engine for optimal computer moves in Chess and the Minimax algorithm for Gomoku
 - Facilitates real-time communication between players using Socket.io
 
-## 💼 Skills
-- **Programming Languages**: C, C++, Python
-- **Web Development**: HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS
-- **Database Management**: PostgreSQL, MongoDB, Redis, Mongoose, Prisma
-- **Frameworks**: React, React Native, Redux, Node.js, Express.js
-- **Version Control**: Git, GitHub
-- **Data Structures & Algorithms**
-- **Competitive Programming**
-
 ## 🏆 Online Judge Profiles
 I have solved a total of 1200+ problems across various online judge platforms.
 - **Codeforces**: [Sharif 11](https://codeforces.com/profile/Sharif_11) - 307 problems solved
 - **Codeforces**: [u1804011](https://codeforces.com/profile/u1804011) - 729 problems solved
 - **Vjudge**: [u1804011 sharif](https://vjudge.net/user/u1804011) - 182 problems solved
+
+## 🎓 Education
+**B.Sc in Engineering (Computer Science & Engineering)**
+- Chittagong University of Engineering and Technology (2019 - 2024)
