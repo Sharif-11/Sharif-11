@@ -40,14 +40,14 @@
 - Features submission status, past submissions, live leaderboard, and post-contest rating updates
 - Uses the vJudge API to process user submissions
 - **Technology Stack**: **React, Node.js, Express.js, MongoDB, Firebase**
-- **GitHub Repositories**: [Front-End](https://github.com/Sharif-11/online-judge-frontend), [Back-End](https://github.com/Sharif-11/online-judge-backend)
+- **GitHub Repositories**: [Front-End](https://github.com/Sharif-11/Online-Judge), [Server Site](https://github.com/Sharif-11/Online-Judge-Server)
 
 ### CUET Medical Center Student Booklet Automation System
 - Developed a server using Node, Express, and TypeScript to automate the booklet system for CUET Medical Center
 - **CUET Authority**: Recruit doctors, create profiles for every student
 - **Students**: Apply for a booklet, system verifies existence, creates booklet, tracks medical history
 - **Technology Stack**: **Node.js, Express.js, TypeScript, PostgreSQL, Prisma**
-- **GitHub Repositories**: [Front-End](https://github.com/Sharif-11/medical-center-frontend), [Back-End](https://github.com/Sharif-11/medical-center-backend)
+- **GitHub Repositories**: [Server Site](https://github.com/Sharif-11/Booklet_Automation_Server)
 
 ### Online Game Portal
 - Developed a game portal for players to register and play games like Chess, Gomoku, and Space Invader
@@ -55,7 +55,7 @@
 - Uses a chess engine for optimal computer moves in Chess and the Minimax algorithm for Gomoku
 - Facilitates real-time communication between players using Socket.io
 - **Technology Stack**: **React, Socket.io, Node.js, Express.js, MongoDB, Mongoose**
-- **GitHub Repositories**: [Front-End](https://github.com/Sharif-11/online-game-portal-frontend), [Back-End](https://github.com/Sharif-11/online-game-portal-backend)
+- **GitHub Repositories**: [Front-End](https://github.com/Sharif-11/Gaming_Portal), [Back-End](https://github.com/Sharif-11/Gaming-portal-server)
 
 ## 🏆 Online Judge Profiles
 I have solved a total of 1200+ problems across various online judge platforms.
