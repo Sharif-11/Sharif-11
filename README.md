@@ -7,7 +7,7 @@
 
 ## 💼 Skills
 - **Programming Languages**: C, C++, Python
-- **Web Development**: HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS
+- **Web Development**: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScript
 - **Database Management**: PostgreSQL, MongoDB, Mongoose, Prisma
 - **Frameworks**: React, React Native, Node.js, Express.js
 - **Version Control**: GitHub
