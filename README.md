@@ -23,7 +23,7 @@
 - **Student Panel**: Access to semesters, courses, attendance records, and test results
 - **Admin Panel**: User management, course creation, and semester allocation
 - **Technology Stack**: **React, Node.js, Express.js, PostgreSQL, Prisma, TypeScript**
-- **GitHub Repositories**: [Teacher Panel](https://github.com/Sharif-11/Class-Test-Attendance-Teacher-Panel),  [Admin Panel](https://github.com/Sharif-11/class-test-attendance-admin-panel),  [Server Site](https://github.com/Sharif-11/Class-Test-Attendance-Automation-Server)
+- **GitHub Repositories**: [Teacher Panel](https://github.com/Sharif-11/Class-Test-Attendance-Teacher-Panel), [Server Site](https://github.com/Sharif-11/Class-Test-Attendance-Automation-Server)
 
 ### Doctor Appointment Slot Booking System
 - Automated appointment slot booking system for doctors in Bangladesh
